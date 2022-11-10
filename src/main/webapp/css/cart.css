@@ -1,0 +1,33 @@
+
+table {
+    width:100%;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+.item p {
+    display: inline-block;
+}
+
+.item input {
+    margin-top: 15px;
+    width: 70%;
+    float: right;
+}
+.btn {
+    float: left;
+}
+#cart2{
+    margin-top: 70px;
+    width: 30%;
+    margin-bottom: 80px;
+    float: right;
+    width: 40%;
+}
+#cart1{
+	margin-top: 80px;
+    margin-left: 40px;	
+    float:left;
+    width: 50%;
+}

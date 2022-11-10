@@ -1,0 +1,19 @@
+.body {
+    padding: 10px;
+}
+
+.left {
+    float: left;
+    width: 30%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.right {
+    float: right;
+    width: 70%;
+    margin-top: 50px;
+
+}
+.right h2 {
+    color: red;
+}
